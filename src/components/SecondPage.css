@@ -1,0 +1,21 @@
+.secondpage {
+    display: flex;
+    flex-direction: column;
+}
+.component2 {
+    margin: 10vmax;
+    border: 1px solid black;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.component1 {
+    margin-top: 0;
+}
+
+.bold-header {
+    font-size: medium;
+    background-color:cadetblue;
+    color:white;
+    font-weight: bolder;
+}
